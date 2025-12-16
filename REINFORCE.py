@@ -18,7 +18,7 @@ torch.manual_seed(seed)
 
 GAMMA = 0.99
 LR = 1e-3
-SOLVED_SCORE = 475
+SOLVED_SCORE = 500
 MAX_STEPS = 500
 
 
